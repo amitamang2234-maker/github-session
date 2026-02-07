@@ -1,0 +1,2 @@
+git stattus
+stage changes git add
